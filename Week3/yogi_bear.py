@@ -1,8 +1,3 @@
-"""
-COMP.CS.100 Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-The song "Yogi_bear"
-"""
 def repeat_name(name, reps):
     """
     create a function for repeated line in 3 verses
