@@ -1,8 +1,3 @@
-"""
-COMP.CS.100 Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-Solution of task 3.5.1.1: A program that prints the words of the song Puff and Magic Dragon.
-"""
 def print_chorus():
     """Print repeated phrases"""
     print("Puff, the magic dragon lived by the sea")
