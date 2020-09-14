@@ -1,8 +1,3 @@
-"""
-COMP.CS.100 Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-Template Song: Old MacDonald
-"""
 def verse_1():
     """print repeated phrases with capital MACDONALD"""
     print("Old MACDONALD had a farm")
