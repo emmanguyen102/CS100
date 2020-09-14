@@ -1,9 +1,3 @@
-"""
-Ohjelmointi 1 / Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-Trangle's Area when the Sides Are Known
-"""
-
 from math import sqrt
 def area(a, b, c):
     """
