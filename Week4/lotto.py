@@ -1,8 +1,3 @@
-"""
-Ohjelmointi 1 / Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-Lottery probabilities
-"""
 def subfactorial(b,a):
     """
     Defines the probability function
