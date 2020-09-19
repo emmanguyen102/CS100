@@ -1,8 +1,3 @@
-"""
-Ohjelmointi 1 / Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-Comparing floating-point (decimal) numbers
-"""
 def compare_floats(a, b, c):
     """
     This function compares minus of 2 floating-point numbers sensibly with EPSILON
