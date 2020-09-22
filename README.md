@@ -1,1 +1,1 @@
-# CS100
+Solution to exercises in Python
