@@ -1,8 +1,3 @@
-"""
-COMP.CS.100 Programming 1
-Hang Nguyen, hang.t.nguyen@tuni.fi, student id K429778
-Number series
-"""
 def is_even_num_ascending(l):
     """
     print the even numbers in ascending order
