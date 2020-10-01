@@ -1,13 +1,3 @@
-"""
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-Name:       Hang Nguyen
-Email:      hang.t.nguyen@tuni.fi
-Student Id: K429778
-
-A program to output a logarithmic histogram
-of energy consumption measurements.
-"""
-
 def main():
     print("Enter energy consumption data.")
     print("End by entering an empty line.")
