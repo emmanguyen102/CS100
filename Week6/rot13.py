@@ -1,4 +1,4 @@
-ef encrypt(char):
+def encrypt(char):
     """
     Encrypts its parameter using ROT13 encryption technology.
 
