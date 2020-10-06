@@ -1,12 +1,3 @@
-"""
-COMP.CS.100 Programming 1
-Student ID: K429778
-Name: Hang Nguyen
-Email: hang.t.nguyen@tuni.fi
-
-A program to implement a simple dictionary to help a tourist while abroad
-"""
-
 def main():
     english_spanish = {"hey": "hola", "thanks": "gracias", "home": "casa"}
 
