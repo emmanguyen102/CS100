@@ -22,14 +22,13 @@ def main():
         try:
             user_input = str(input("Enter product name: "))
             if user_input.strip() in PRICES:
-                print("The price of milk is", "{:.2f}".format(PRICES[user_input.strip()]), "e")
+                print("The price of", user_input.strip(), "is", "{:.2f}".format(PRICES[user_input.strip()]), "e")
             else:
                 if user_input.strip() == "":
                     print("Bye!")
                     break
                 else:
                     print("Error:", user_input.strip(), "is unknown.")
-                    break
         except ValueError:
                 print("Bye!")
                 break
