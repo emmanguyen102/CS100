@@ -24,14 +24,17 @@ def main():
             if user_input.strip() in PRICES:
                 print("The price of milk is", "{:.2f}".format(PRICES[user_input.strip()]), "e")
             else:
-                break
+                if user_input.strip() == "":
+                    print("Bye!")
+                    break
+                else:
+                    print("Error:", user_input.strip(), "is unknown.")
+                    break
         except ValueError:
+                print("Bye!")
                 break
-    if len(user_input) == 0 or user_input.strip() == "":
-        print("Bye!")
-    else:
-        print("Error:", user_input.strip(), "is unknown.")
-        pass
+
+
 
 if __name__ == "__main__":
     main()
