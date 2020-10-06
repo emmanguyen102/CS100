@@ -1,14 +1,3 @@
-"""
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-Student Id: K429778
-Name: Hang Nguyen
-Email: hang.t.nguyen@tuni.fi
-
-Modify main function in the code template
-in a way that the program worrks as folloign
-examples
-"""
-
 PRICES = {
     "milk": 1.09, "fish": 4.56, "bread": 2.10,
     "chocolate": 2.70, "grasshopper": 13.25,
