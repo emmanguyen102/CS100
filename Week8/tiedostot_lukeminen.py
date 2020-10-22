@@ -11,7 +11,7 @@ def main():
     for file_line in file:
         file_line = file_line.rstrip()
         print(str(a + 1)+' '+file_line)
-        a = a + 1
+        a += 1
 
     file.close()
 
