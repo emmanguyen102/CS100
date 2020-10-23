@@ -1,12 +1,3 @@
-"""
-COMP.CS.100 Ohjelmointi 1: Johdatus ohjelmointiin
-Student name: Hang Nguyen
-Student ID: K429778
-
-A program that helps you add up the scores that
-various contestants have obtained in a game.
-
-"""
 def main():
     filename = input("Enter the name of the score file: ")
 
