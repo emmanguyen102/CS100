@@ -45,9 +45,7 @@ class Fraction:
 
     def simplify(self):
         """
-        A function to simplify a fraction
-
-        :return: class, A new Object containing simplified values of the fraction
+        A function to simplify a fraction, update instances of orinal object
         """
         fact = greatest_common_divisor(self.__numerator, self.__denominator)
         self.__numerator = self.__numerator//fact
