@@ -1,4 +1,4 @@
-lass Fraction:
+Class Fraction:
     """
     This class represents one single fraction that consists of
     numerator (osoittaja) and denominator (nimittäjä).
