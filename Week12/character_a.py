@@ -1,13 +1,3 @@
-"""
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-Name: Hang Nguyen
-ID: K429778
-Email: hang.t.nguyen@tuni.fi
-
-This program models a character adventuring in a video game,
-or more like, the stuff that the character carries around.
-"""
-
 class Character:
     """
     This class models a Character with his/her items
