@@ -1,9 +1,3 @@
-"""
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-
-Project: accesscontrol, program template
-"""
-
 DOORCODES = {'TC114': ['TIE'], 'TC203': ['TIE'], 'TC210': ['TIE', 'TST'],
              'TD201': ['TST'], 'TE111': [], 'TE113': [], 'TE115': [],
              'TE117': [], 'TE102': ['TIE'], 'TD203': ['TST'], 'TA666': ['X'],
